@@ -2,7 +2,7 @@ baseurl = "https://www.hankyulkim.com/"
 
 languageCode = "en-us"
 title = "Hank Kim"
-theme = "hugo-academic"
+theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
