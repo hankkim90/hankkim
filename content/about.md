@@ -1,6 +1,9 @@
 ---
-title: "About"
+title: "About me"
 date: "2016-05-05T21:48:51-07:00"
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme).
+Hi! 
+My name is Hank Kim, and I am a data analyst working in the Boston area. I use SAS for my work, and am an aspiring R user. Below is a PDF link of my CV.
+
+

@@ -2,7 +2,7 @@ baseurl = "https://www.hankyulkim.com/"
 
 languageCode = "en-us"
 title = "Hank Kim"
-theme = "hugo-academic"
+theme = "academic-kickstart"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -15,10 +15,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/hankkim90"
+[[menu.main]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/hankkim90/"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://twitter.com/Kim_Hankyul"
 
 [params]
     description = "A website built through Hugo and blogdown."
